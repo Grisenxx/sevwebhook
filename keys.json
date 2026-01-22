@@ -1,0 +1,17 @@
+{
+  "weekly": [
+    "WEEKLY-KEY-001",
+    "WEEKLY-KEY-002",
+    "WEEKLY-KEY-003"
+  ],
+  "monthly": [
+    "MONTHLY-KEY-001",
+    "MONTHLY-KEY-002",
+    "MONTHLY-KEY-003"
+  ],
+  "quarterly": [
+    "QUARTERLY-KEY-001",
+    "QUARTERLY-KEY-002",
+    "QUARTERLY-KEY-003"
+  ]
+}
